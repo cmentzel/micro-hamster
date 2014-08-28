@@ -24,3 +24,8 @@ Potentional motor (with gearhead): http://www.jameco.com/webapp/wcs/stores/servl
 
 Example battery: http://www.batteryjunction.com/energizer-cr123a.html?gclid=CJya4LqItcACFZKBfgodP5cABg
 
+Motor (above) is a Pololu. The same motor, without a built-in encoder, is $24 here:
+
+http://www.pololu.com/product/1107
+
+They have a bunch of other pieces for building robots; we can probably get a lot of what we need there.
